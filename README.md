@@ -33,9 +33,12 @@ My name is **Mohamed SALIFOU**. I am a passionate about AI, Robotics and Machine
 
 ###### *Here is my  stats <img src="https://media2.giphy.com/media/TjdjGJc9ti9RIFk0IJ/200w.webp?cid=ecf05e47helmh11la4n0y3pvhuqr8mcovp86sh61nt5rgo87&rid=200w.webp" height="30"></img>*
 
-<summary>:zap: Github Stats<\summary>
-  
-  <img align="left" alt="N Github Stats" src="https://github-readme-statsmohamedslf.vercel.app/api?username=mohamedslf&show_icons=true&hide_border=true&count_private=true" />
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="mugiwarra229's GitHub Stats" src="https://github-readme-stats-mohamedslf.vercel.app/api?username=mohamedslf&show_icons=true&hide_border=true" />
+
+</details>
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-salifou-65ab18194/)
 [![Mail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mohamedsalifou801@gmail.com)
