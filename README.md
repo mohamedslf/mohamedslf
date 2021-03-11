@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 #### I am a passionate about AI, Robotics and Machine learning from Bénin.
 
-*19 yo 🎓 Student at Epitech Benin.*
+#### *19 yo 🎓 Student at Epitech Benin.*
 
 <div align="center"><img src="Assets/robot-change-head.gif" /></div>
 
-###### *My Favorite Language:*
+###### *My Favorite Language:* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <code><img height="50" src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" title="Python" alt="Python"></code>
 <code><img height="50" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" title="C" alt="C"></code>
