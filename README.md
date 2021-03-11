@@ -50,7 +50,14 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats-mohamedslf.vercel.app/api/top-langs/?username=mohamedslf&layout=compact&theme=radical" />
 
 ##### ***Social Networks***
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-salifou-65ab18194/)
-[![Mail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mohamedsalifou801@gmail.com)
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/Junior_Medehou/)
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Hamidou%20TESSILIMI-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/mohamed-salifou-65ab18194/)
+
+[![Mail](https://img.shields.io/badge/Gmail-hamid.tessilimi@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:mohamedsalifou801@gmail.com)
+
+[![Discord](https://img.shields.io/badge/Discord-Hamidou_TESSILIMI_9952-blue?logo=Discord&logoColor=white&labelColor=black)](https://www.discord.com/in/hamidou-tessilimi/)
+
+[![Twitter](https://img.shields.io/badge/Twitter-blacky_yg-blue?logo=Twitter&logoColor=blue&labelColor=black)](https://www.twitter.com/blacky_yg/)
+
+<br>
 [![Whatsapp](https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+22996249494)
