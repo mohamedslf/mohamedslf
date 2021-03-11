@@ -47,7 +47,9 @@ Here are some ideas to get you started:
 
 ###### *Here is my  stats <img src="https://media2.giphy.com/media/TjdjGJc9ti9RIFk0IJ/200w.webp?cid=ecf05e47helmh11la4n0y3pvhuqr8mcovp86sh61nt5rgo87&rid=200w.webp" height="30"></img>*
 
-  <summary>:zap: GitHub Stats</summary>
+  <summary>
+    <strong>:zap: GitHub Stats</strong>
+  </summary>
 
   <img align="center" alt="mugiwarra229's GitHub Stats" src="https://github-readme-stats-mohamedslf.vercel.app/api?username=mohamedslf&layout=compact&theme=radical" /> 
   <img align="center" src="https://github-readme-stats-mohamedslf.vercel.app/api/top-langs/?username=mohamedslf&layout=compact&theme=radical" />
