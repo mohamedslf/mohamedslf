@@ -45,8 +45,6 @@ Here are some ideas to get you started:
 <code> <img height="50" alt="Trello" src="https://img.shields.io/badge/Trello%20-%23026AA7.svg?&style=for-the-badge&logo=Trello&logoColor=white"/> </code>
 <code> <img height="50" alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> </code>
 
-###### *Here is my  stats <img src="https://media2.giphy.com/media/TjdjGJc9ti9RIFk0IJ/200w.webp?cid=ecf05e47helmh11la4n0y3pvhuqr8mcovp86sh61nt5rgo87&rid=200w.webp" height="30"></img>*
-
   <summary>
     <strong>:zap: GitHub Stats</strong>
   </summary>
@@ -60,8 +58,8 @@ Here are some ideas to get you started:
 
 [![Mail](https://img.shields.io/badge/Gmail-mohamedsalifou801@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:mohamedsalifou801@gmail.com)
 
-[![Twitter](https://img.shields.io/badge/Twitter-blacky_yg-blue?logo=Twitter&logoColor=blue&labelColor=black)](https://www.twitter.com/blacky_yg/)
+[![Twitter](https://img.shields.io/badge/Twitter-SalifouMohame19-blue?logo=Twitter&logoColor=blue&labelColor=black)](https://twitter.com/SalifouMohame19?s=09)
 
-[![Whatsapp](https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+22996249494)
+[![Whatsapp](https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=blue&labelColor=black)](https://wa.me/+22996249494)
 
 <br>
