@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ###### *My Favorite Language:* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-<code> <img height="50" src"https://www.informatica.us.es/images/icagenda/agenda/haskell-logo.png"> </code>
+<code> <img height="50" src"https://www.informatica.us.es/images/icagenda/agenda/haskell-logo.png"/> </code>
 <code><img height="50" src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" title="Python" alt="Python"></code>
 <code><img height="50" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" title="C" alt="C"></code>
 <code><img height="50" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++" alt="C++"></code>
