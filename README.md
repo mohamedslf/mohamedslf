@@ -50,7 +50,7 @@ Here are some ideas to get you started:
   </summary>
 
   <img align="center" alt="mugiwarra229's GitHub Stats" src="https://github-readme-stats-mohamedslf.vercel.app/api?username=mohamedslf&layout=compact&theme=radical" /> 
-  <img align="center" src="https://github-readme-stats-mohamedslf.vercel.app/api/top-langs/?username=mohamedslf&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats-three-dun.vercel.app/api/top-langs/?username=mohamedslf&layout=compact&theme=radical" />
 
 ##### ***Social Networks***
 
