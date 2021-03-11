@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 *19 yo 🎓 Student at Epitech Benin.*
 
-![Cover](Assets/robot-change-head.gif)
+ <img align="center" src"Assets/robot-change-head.gif" />
 
 ###### *My Favorite Language:*
 
