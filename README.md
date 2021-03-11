@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 <code> <img height="50" alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/> </code>
 <code> <img height="50" alt="Trello" src="https://img.shields.io/badge/Trello%20-%23026AA7.svg?&style=for-the-badge&logo=Trello&logoColor=white"/> </code>
 <code> <img height="50" alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> </code>
+<code><img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" /></code>
 
   <summary>
     <strong>:zap: GitHub Stats</strong>
