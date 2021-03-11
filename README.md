@@ -1,4 +1,8 @@
-### Hi there 👋
+<h2 align='center'>
+  <samp>
+    <strong>Welcome 👋, My name is Mohamed SALIFOU</strong>
+  </samp>
+</h2>
 
 <!--
 **mohamedslf/mohamedslf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is **Mohamed SALIFOU**. I am a passionate about AI, Robotics and Machine learning from Bénin.
+. I am a passionate about AI, Robotics and Machine learning from Bénin.
 
 *19 yo 🎓 Student at Epitech Benin.*
 
