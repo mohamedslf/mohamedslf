@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-. I am a passionate about AI, Robotics and Machine learning from Bénin.
+#### I am a passionate about AI, Robotics and Machine learning from Bénin.
 
 *19 yo 🎓 Student at Epitech Benin.*
 
