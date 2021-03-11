@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 *19 yo 🎓 Student at Epitech Benin.*
 
+![Cover](Assets/robot-change-head.gif)
+
 ###### *My Favorite Language:*
 
 <code><img height="50" src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" title="Python" alt="Python"></code>
