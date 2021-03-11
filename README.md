@@ -28,6 +28,7 @@ My name is **Mohamed SALIFOU**. I am a passionate about AI, Robotics and Machine
 
 ##### *Frameworks and Tools:*
 
+<code><img height="50" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git"/></code>
 <code> <img align="left" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"/> </code>
 <code> <img align="left" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"/> </code>
 <code><img height="50" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" title="mySQL" alt="mySQL"></code>
@@ -37,7 +38,8 @@ My name is **Mohamed SALIFOU**. I am a passionate about AI, Robotics and Machine
 
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="mugiwarra229's GitHub Stats" src="https://github-readme-stats-mohamedslf.vercel.app/api?username=mohamedslf&show_icons=true&hide_border=true" />    |
+  <img align="left" alt="mugiwarra229's GitHub Stats" src="https://github-readme-stats-mohamedslf.vercel.app/api?username=mohamedslf&show_icons=true&hide_border=true" /> 
+  <img align="left" src="https://github-readme-stats-mohamedslf.vercel.app/api/top-langs/?username=mohamedslf&layout=compact&theme=radical" />
 
 ##### *Social Networks*
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-salifou-65ab18194/)
