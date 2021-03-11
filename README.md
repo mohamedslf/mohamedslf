@@ -55,9 +55,8 @@ Here are some ideas to get you started:
 
 [![Mail](https://img.shields.io/badge/Gmail-mohamedsalifou801@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:mohamedsalifou801@gmail.com)
 
-[![Discord](https://img.shields.io/badge/Discord-Salifou_Mohamed_1726-blue?logo=Discord&logoColor=white&labelColor=black)](https://www.discord.com/in/mohamed-salifou/)
-
 [![Twitter](https://img.shields.io/badge/Twitter-blacky_yg-blue?logo=Twitter&logoColor=blue&labelColor=black)](https://www.twitter.com/blacky_yg/)
 
-<br>
 [![Whatsapp](https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+22996249494)
+
+<br>
