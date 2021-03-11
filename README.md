@@ -51,9 +51,9 @@ Here are some ideas to get you started:
 
 ##### ***Social Networks***
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Hamidou%20TESSILIMI-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/mohamed-salifou-65ab18194/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Mohamed%20SALIFOU-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/mohamed-salifou-65ab18194/)
 
-[![Mail](https://img.shields.io/badge/Gmail-hamid.tessilimi@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:mohamedsalifou801@gmail.com)
+[![Mail](https://img.shields.io/badge/Gmail-mohamedsalifou801@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:mohamedsalifou801@gmail.com)
 
 [![Discord](https://img.shields.io/badge/Discord-Hamidou_TESSILIMI_9952-blue?logo=Discord&logoColor=white&labelColor=black)](https://www.discord.com/in/hamidou-tessilimi/)
 
