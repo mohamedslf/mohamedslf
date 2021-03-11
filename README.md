@@ -38,10 +38,10 @@ My name is **Mohamed SALIFOU**. I am a passionate about AI, Robotics and Machine
 
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="mugiwarra229's GitHub Stats" src="https://github-readme-stats-mohamedslf.vercel.app/api?username=mohamedslf&layout=compact&theme=radical" /> 
-  <img align="left" src="https://github-readme-stats-mohamedslf.vercel.app/api/top-langs/?username=mohamedslf&layout=compact&theme=radical" />
+  <img align="center" alt="mugiwarra229's GitHub Stats" src="https://github-readme-stats-mohamedslf.vercel.app/api?username=mohamedslf&layout=compact&theme=radical" /> 
+  <img align="center" src="https://github-readme-stats-mohamedslf.vercel.app/api/top-langs/?username=mohamedslf&layout=compact&theme=radical" />
 
-##### *Social Networks*
+##### ***Social Networks***
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-salifou-65ab18194/)
 [![Mail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mohamedsalifou801@gmail.com)
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/Junior_Medehou/)
