@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 #### I am a passionate about AI, Robotics and Machine learning from Bénin.
 
-#### *19 yo 🎓 Student at Epitech Benin.*
+#### *21 yo 🎓 Student at Epitech Benin.*
 
 <div align="center"><img src="Assets/robot-change-head.gif" /></div>
 
